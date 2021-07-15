@@ -53,6 +53,7 @@
         <itemInstances>
             <componentInstance>
                 <componentInstanceProperties>
+
                     <name>latField</name>
                     <value>Location__Latitude__s</value>
                 </componentInstanceProperties>
@@ -65,6 +66,11 @@
                     <value>Name</value>
                 </componentInstanceProperties>
                 <componentName>RecordMap</componentName>
+=======
+                    <name>animations</name>
+                    <value>true</value>
+                </componentInstanceProperties>
+                <componentName>PictureGalleryCard</componentName>
             </componentInstance>
         </itemInstances>
         <mode>Replace</mode>
